@@ -1,0 +1,610 @@
+{
+ "intro": "Stream 24 h de Mada au profit de l’association Les Enfants du Soleil. Chaque palier atteint, on le fait en live.",
+ "objectif": {
+  "montant": 1000,
+  "texte": "Objectif : pousser le stream à 48 h"
+ },
+ "trancheMada": 50,
+ "ajustement": 0,
+ "dons": [],
+ "paliers": [
+  {
+   "id": "p0",
+   "montant": 1,
+   "texte": "Balthus fait un Kaston avant d’aller en TP d’énergie électrique à 8 h",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p1",
+   "montant": 2,
+   "texte": "Fanny arrête de cloper dans le musée",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p2",
+   "montant": 3,
+   "texte": "Ryan Cacoub enlève son teddy Mada",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p3",
+   "montant": 5,
+   "texte": "Chizat fait un poème engagé pour soutenir l’extrême droite devant toute la NAM au micro",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p4",
+   "montant": 10,
+   "texte": "Santoni sourit",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p5",
+   "montant": 15,
+   "texte": "Romane et Ella appellent une sorcière de Madagascar",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p6",
+   "montant": 20,
+   "texte": "PET tue une pinte",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p7",
+   "montant": 25,
+   "texte": "Yaël fait un combat seule pendant 5 min",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p8",
+   "montant": 30,
+   "texte": "Thomas Lesueur dit à Bolga de fermer sa gueule après chaque chanson de la 3M",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p9",
+   "montant": 40,
+   "texte": "Iwan se fait une décolo",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p10",
+   "montant": 45,
+   "texte": "Chizat fait un don de 50 € à CheerUP",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p11",
+   "montant": 50,
+   "texte": "Balthus et Chloé en date au milieu du trou qui pue",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p12",
+   "montant": 55,
+   "texte": "Thaïs fait un showcase sur la chanson de votre choix",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p13",
+   "montant": 60,
+   "texte": "Battle d’aura entre Jordan et Paul",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p14",
+   "montant": 65,
+   "texte": "Clémence fait un roast de 2 min à Noé",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p15",
+   "montant": 70,
+   "texte": "Chizat se prend une droite de Jean Castel pleine puissance dans le ventre",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p16",
+   "montant": 75,
+   "texte": "On fait une trend TikTok choisie par le chat",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p17",
+   "montant": 80,
+   "texte": "Balthus et Noé se percent les oreilles en live",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p18",
+   "montant": 85,
+   "texte": "On fait tous un trait dans le sourcil",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p19",
+   "montant": 90,
+   "texte": "Lesueur cul-sec un verre aberrant (½ ricard, ½ rosé)",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p20",
+   "montant": 95,
+   "texte": "Matisse, Lesueur et Iwan prennent un retard en 3M rugby",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p21",
+   "montant": 100,
+   "texte": "Uriel fait son incroyable freestyle devant tout le musée au micro",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p22",
+   "montant": 105,
+   "texte": "Uriel et Zeyd supplient Elian à genoux pendant 5 min de les déban",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p23",
+   "montant": 110,
+   "texte": "Balthus et Noé rentrent chacun dans une poubelle et font une course de Mario Kart",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p24",
+   "montant": 115,
+   "texte": "Balthus envoie un plat tout habillé dans le lac devant Eiffel en l’honneur de Blazizi",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p25",
+   "montant": 120,
+   "texte": "Jordan et Harold enchaînent 3 CC",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p26",
+   "montant": 125,
+   "texte": "Deux Mada du chat font un date en direct",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p27",
+   "montant": 130,
+   "texte": "Santoni fait un staff toilettes IMMOBILE pendant 30 min",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p28",
+   "montant": 135,
+   "texte": "Manon prend du P en continu pendant 5 min",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p29",
+   "montant": 140,
+   "texte": "Camille et Ella sont menottées jusqu’à ce qu’elles gagnent un coin-coin",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p30",
+   "montant": 145,
+   "texte": "Matisse fait un stand-up au musée",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p31",
+   "montant": 150,
+   "texte": "Iwan, Salim et Tom se font une bande de cire sur bras, jambe ou torse",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p32",
+   "montant": 160,
+   "texte": "Chizat met un Hoolisday à Soubeyran",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p33",
+   "montant": 170,
+   "texte": "Fanny ne peut pas jouer au coin-coin pendant 1 semaine",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p34",
+   "montant": 180,
+   "texte": "Salim décolore moustache et barbe et les fait en rose",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p35",
+   "montant": 190,
+   "texte": "Chloé et Iwan font un 1v1 coin-coin à 8 h avant leur TP de CSD",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p36",
+   "montant": 195,
+   "texte": "Iwan et Matisse font de la lutte gréco-romaine",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p37",
+   "montant": 200,
+   "texte": "Santoni dit 300 fois au micro « bravo CheerUP »",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p38",
+   "montant": 210,
+   "texte": "Lorenzo et Tanguy font autant de pompes que d’euros jusqu’au palier",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p39",
+   "montant": 220,
+   "texte": "Yaël se lisse les cheveux pendant 1 semaine",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p40",
+   "montant": 230,
+   "texte": "Uriel fait un concert de Central Cee au Crous Eiffel",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p41",
+   "montant": 240,
+   "texte": "Battle de danse 1v1 entre Uriel et Zeyd au point info",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p42",
+   "montant": 250,
+   "texte": "Chizat appelle Cléopâtre pour lui parler de Skibidi Toilet pendant 2 min",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p43",
+   "montant": 260,
+   "texte": "Iwan imite le loup pendant 30 min",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p44",
+   "montant": 270,
+   "texte": "Zeyd mange du surströmming en live",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p45",
+   "montant": 280,
+   "texte": "Jordan fait le piment",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p46",
+   "montant": 290,
+   "texte": "Rose fait une chorégraphie de danse contemporaine de 5 min sur du Christine and the Queens",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p47",
+   "montant": 300,
+   "texte": "Sofian et Salim font un concours de cheesecake au Népal (celui qui en mange le moins paie tout)",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p48",
+   "montant": 310,
+   "texte": "Harold se déguise en Batman jusqu’à la fin du stream",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p49",
+   "montant": 320,
+   "texte": "Jordan se déguise en Robin jusqu’à la fin du stream",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p50",
+   "montant": 330,
+   "texte": "Les 1A Mada distribuent des crêpes pendant 30 min",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p51",
+   "montant": 340,
+   "texte": "Santoni porte des faux ongles de dingue (vous choisissez le design)",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p52",
+   "montant": 350,
+   "texte": "Harold offre 5 pintes au SG",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p53",
+   "montant": 360,
+   "texte": "Un Mada choisi par le public subit 1 semaine de vol d’habits, comme Chizat l’année dernière",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p54",
+   "montant": 375,
+   "texte": "Sofian met un bikini et nous fait un striptease",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p55",
+   "montant": 390,
+   "texte": "Clémence nous refait la cérémonie du prépus",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p56",
+   "montant": 400,
+   "texte": "Santoni met son écharpe au SG physique",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p57",
+   "montant": 420,
+   "texte": "Les Mada paient les pintes pendant 1 minute",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p58",
+   "montant": 440,
+   "texte": "Tanguy envoie un dive jump de 10 m",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p59",
+   "montant": 460,
+   "texte": "Mada court un marathon en relais pendant les 24 h",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p60",
+   "montant": 480,
+   "texte": "Tous les Mada qui boivent font un tournoi de CC vendredi à 7 h",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p61",
+   "montant": 500,
+   "texte": "La voirie fait enfin sa formation voirie sous polonaise",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p62",
+   "montant": 550,
+   "texte": "Olivier de la sécu fait le test de pureté",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p63",
+   "montant": 600,
+   "texte": "Balthus se tatoue un M à côté de son W",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p64",
+   "montant": 650,
+   "texte": "Tout Mada finit le live avec les cheveux rouges",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p65",
+   "montant": 700,
+   "texte": "Mada organise un nano",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p66",
+   "montant": 725,
+   "texte": "Julien Santoni se fait un dégradé des enfers en live",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p67",
+   "montant": 750,
+   "texte": "On va à Télécom avec le CE se venger",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p68",
+   "montant": 775,
+   "texte": "Balthus s’inscrit pour poser nu devant une classe de dessin",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p69",
+   "montant": 800,
+   "texte": "Fanny se teint les cheveux en rose",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p70",
+   "montant": 850,
+   "texte": "Mada raclette le musée à la langue",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p71",
+   "montant": 900,
+   "texte": "Tanguy participe à une joute à Sète",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p72",
+   "montant": 950,
+   "texte": "Uriel et Julien se font un tatouage commun",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p73",
+   "montant": 1000,
+   "texte": "On pousse le stream à 48 h",
+   "final": true,
+   "fait": false
+  },
+  {
+   "id": "p74",
+   "montant": 1100,
+   "texte": "Balthus se tatoue un B puis un M à gauche de son W",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p75",
+   "montant": 1200,
+   "texte": "Mada ouvre un OnlyFans et l’entretient régulièrement",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p76",
+   "montant": 1300,
+   "texte": "Tanguy se coupe les locks",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p77",
+   "montant": 1500,
+   "texte": "Manon fait une buzzcut",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "p78",
+   "montant": 2000,
+   "texte": "Salim casse sa Play s’il perd contre le dernier donneur",
+   "final": false,
+   "fait": false
+  }
+ ],
+ "carte": [
+  {
+   "id": "c0",
+   "prix": 50,
+   "texte": "Nos 1A vous nettoient la coloc",
+   "note": "Et le prix augmente."
+  },
+  {
+   "id": "c1",
+   "prix": 15,
+   "texte": "Nos 1A vous font la pâtisserie de votre choix",
+   "note": ""
+  },
+  {
+   "id": "c2",
+   "prix": 10,
+   "texte": "Iwan s’habille de la tenue de ton choix pendant 15 min",
+   "note": ""
+  },
+  {
+   "id": "c3",
+   "prix": 20,
+   "texte": "Un Mada de votre choix saute dans le lac de l’ENS",
+   "note": ""
+  },
+  {
+   "id": "c4",
+   "prix": 2,
+   "texte": "On vous prête une puff pendant 1 h",
+   "note": ""
+  },
+  {
+   "id": "c5",
+   "prix": 15,
+   "texte": "Vous venez faire du henné (ce que vous voulez) sur n’importe qui",
+   "note": ""
+  },
+  {
+   "id": "c6",
+   "prix": 10,
+   "texte": "Vous venez mettre une tarte au Mada de votre choix",
+   "note": ""
+  }
+ ],
+ "maj": 0
+}
