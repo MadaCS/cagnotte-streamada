@@ -523,7 +523,7 @@
    "id": "p73",
    "montant": 1000,
    "texte": "On pousse le stream à 48 h",
-   "final": true,
+   "final": false,
    "fait": false
   },
   {
@@ -606,5 +606,5 @@
    "note": ""
   }
  ],
- "maj": 0
+ "maj": 1792601523331
 }
