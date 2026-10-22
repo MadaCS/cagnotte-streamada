@@ -48,7 +48,7 @@
    "montant": 20,
    "texte": "PET tue une pinte",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p7",
@@ -697,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792657072566
+ "maj": 1792657322434
 }
