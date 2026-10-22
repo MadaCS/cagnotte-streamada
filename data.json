@@ -12,21 +12,21 @@
    "id": "p0",
    "montant": 1,
    "texte": "Balthus fait un Kaston avant d’aller en TP d’énergie électrique à 8 h",
-   "final": true,
+   "final": false,
    "fait": true
   },
   {
    "id": "p1",
    "montant": 2,
    "texte": "Fanny arrête de cloper dans le musée",
-   "final": true,
+   "final": false,
    "fait": true
   },
   {
    "id": "p2",
    "montant": 3,
    "texte": "Ryan Cacoub enlève son teddy Mada",
-   "final": true,
+   "final": false,
    "fait": true
   },
   {
@@ -690,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792653094734
+ "maj": 1792653532293
 }
