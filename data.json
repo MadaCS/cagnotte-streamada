@@ -546,6 +546,104 @@
    "texte": "Chizat et rose font le debrief baaar en espagnol et attachés l'un à l'autre par les pieds ",
    "final": false,
    "fait": false
+  },
+  {
+   "id": "pmvj74zlmx918",
+   "montant": 510,
+   "texte": "emma essaie de forcer le blocus demain",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj757rnah28",
+   "montant": 550,
+   "texte": "shire et chizat dorment tout nu ensemble pendant une semaine à la cruz",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj766h2vts2",
+   "montant": 570,
+   "texte": "fianar bonnard rase les 4 boucs moustaches en live",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj76qtsstwd",
+   "montant": 600,
+   "texte": "Chess Boxing entre Ryan et Nathan Fournier",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj773v3tcn4",
+   "montant": 650,
+   "texte": "Jordan fait tout pour être prez huma",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj77j9b6yc1",
+   "montant": 660,
+   "texte": "romane conduit sur une route à contresens",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj7837lkbzc",
+   "montant": 710,
+   "texte": "camille et romane font un test pour savoir si elles sont vrmt cousines",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj78exr6mr1",
+   "montant": 780,
+   "texte": "sofian nous fait son date spécial avec la cave à jazz",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj78pyohf21",
+   "montant": 790,
+   "texte": "On retrouve la fille que salim a chop au quadra et elle vient faire un date en live avec lui ",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj796iubx6l",
+   "montant": 900,
+   "texte": "Uriel et Julien envoient un tatouage commun ",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj79hbu5tk6",
+   "montant": 935,
+   "texte": "Tom s'infiltre dans le bus de la cruz",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj79q25peqx",
+   "montant": 980,
+   "texte": "Rose vient aux reu mada",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj7a7njd35k",
+   "montant": 1165,
+   "texte": "Chizat avoue face caméra qu'il n'a pas de culture footballistique ",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj7alaxcqjw",
+   "montant": 1200,
+   "texte": "conta fait son boulot de secgen",
+   "final": false,
+   "fait": false
   }
  ],
  "carte": [
@@ -592,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792652701592
+ "maj": 1792652994389
 }
