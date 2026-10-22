@@ -30,13 +30,6 @@
    "fait": false
   },
   {
-   "id": "p3",
-   "montant": 5,
-   "texte": "Chizat fait un poème engagé pour soutenir l’extrême droite devant toute la NAM au micro",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p4",
    "montant": 10,
    "texte": "Santoni sourit",
@@ -606,5 +599,5 @@
    "note": ""
   }
  ],
- "maj": 1792601523331
+ "maj": 1792651075714
 }
