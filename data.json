@@ -93,7 +93,7 @@
   },
   {
    "id": "p15",
-   "montant": 650,
+   "montant": 625,
    "texte": "Chizat se prend une droite de Jean Castel pleine puissance dans le ventre",
    "final": false,
    "fait": false
@@ -563,7 +563,7 @@
   {
    "id": "pmvj74zlmx918",
    "montant": 510,
-   "texte": "emma essaie de forcer le blocus demain",
+   "texte": "Emma essaie de forcer le blocus demain",
    "final": false,
    "fait": false
   },
@@ -597,7 +597,7 @@
   },
   {
    "id": "pmvj77j9b6yc1",
-   "montant": 660,
+   "montant": 680,
    "texte": "romane conduit sur une route à contresens",
    "final": false,
    "fait": false
@@ -664,6 +664,13 @@
    "texte": "Balthus et Romane se font tatouer l'initiale de leurs partenaires",
    "final": false,
    "fait": false
+  },
+  {
+   "id": "pmvjhrcuwykk3",
+   "montant": 750,
+   "texte": "On finit le live dans le camion FACS",
+   "final": false,
+   "fait": false
   }
  ],
  "carte": [
@@ -710,5 +717,5 @@
    "note": ""
   }
  ],
- "maj": 1792670146782
+ "maj": 1792670619893
 }
