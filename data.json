@@ -680,7 +680,7 @@
   },
   {
    "id": "c4",
-   "prix": 2,
+   "prix": 5,
    "texte": "On vous prête une puff pendant 1 h",
    "note": ""
   },
@@ -697,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792660678565
+ "maj": 1792660803526
 }
