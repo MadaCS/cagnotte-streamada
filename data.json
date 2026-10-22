@@ -209,7 +209,7 @@
    "montant": 195,
    "texte": "Iwan et Matisse font de la lutte gréco-romaine",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p37",
@@ -223,7 +223,7 @@
    "montant": 210,
    "texte": "Lorenzo et Tanguy font autant de pompes que d’euros jusqu’au palier",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p39",
@@ -258,14 +258,14 @@
    "montant": 260,
    "texte": "Iwan imite le loup pendant 30 min",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p45",
    "montant": 280,
    "texte": "Jordan fait le piment",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p46",
@@ -697,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792709211548
+ "maj": 1792709282892
 }
