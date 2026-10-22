@@ -34,7 +34,7 @@
    "montant": 15,
    "texte": "Romane et Ella appellent une sorcière de Madagascar",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p6",
@@ -690,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792653532293
+ "maj": 1792656346842
 }
