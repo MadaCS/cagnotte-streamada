@@ -69,14 +69,14 @@
    "montant": 55,
    "texte": "Thaïs fait un showcase sur la chanson de votre choix",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p13",
    "montant": 60,
    "texte": "Battle d’aura entre Jordan et Paul",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p14",
@@ -697,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792660025028
+ "maj": 1792660560104
 }
