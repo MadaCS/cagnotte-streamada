@@ -215,7 +215,7 @@
    "montant": 180,
    "texte": "Salim décolore moustache et barbe et les fait en rose",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p35",
@@ -717,5 +717,5 @@
    "note": ""
   }
  ],
- "maj": 1792670619893
+ "maj": 1792670659512
 }
