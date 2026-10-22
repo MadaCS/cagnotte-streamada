@@ -30,13 +30,6 @@
    "fait": false
   },
   {
-   "id": "p4",
-   "montant": 10,
-   "texte": "Santoni sourit",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p5",
    "montant": 15,
    "texte": "Romane et Ella appellent une sorcière de Madagascar",
@@ -54,27 +47,6 @@
    "id": "p7",
    "montant": 25,
    "texte": "Yaël fait un combat seule pendant 5 min",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p8",
-   "montant": 30,
-   "texte": "Thomas Lesueur dit à Bolga de fermer sa gueule après chaque chanson de la 3M",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p9",
-   "montant": 40,
-   "texte": "Iwan se fait une décolo",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p10",
-   "montant": 45,
-   "texte": "Chizat fait un don de 50 € à CheerUP",
    "final": false,
    "fait": false
   },
@@ -108,7 +80,7 @@
   },
   {
    "id": "p15",
-   "montant": 70,
+   "montant": 650,
    "texte": "Chizat se prend une droite de Jean Castel pleine puissance dans le ventre",
    "final": false,
    "fait": false
@@ -122,8 +94,8 @@
   },
   {
    "id": "p17",
-   "montant": 80,
-   "texte": "Balthus et Noé se percent les oreilles en live",
+   "montant": 320,
+   "texte": "Balthus, Noé et Chizat se percent les oreilles en live",
    "final": false,
    "fait": false
   },
@@ -157,7 +129,7 @@
   },
   {
    "id": "p22",
-   "montant": 105,
+   "montant": 118,
    "texte": "Uriel et Zeyd supplient Elian à genoux pendant 5 min de les déban",
    "final": false,
    "fait": false
@@ -170,23 +142,9 @@
    "fait": false
   },
   {
-   "id": "p24",
-   "montant": 115,
-   "texte": "Balthus envoie un plat tout habillé dans le lac devant Eiffel en l’honneur de Blazizi",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p25",
    "montant": 120,
    "texte": "Jordan et Harold enchaînent 3 CC",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p26",
-   "montant": 125,
-   "texte": "Deux Mada du chat font un date en direct",
    "final": false,
    "fait": false
   },
@@ -283,7 +241,7 @@
   },
   {
    "id": "p40",
-   "montant": 230,
+   "montant": 490,
    "texte": "Uriel fait un concert de Central Cee au Crous Eiffel",
    "final": false,
    "fait": false
@@ -297,7 +255,7 @@
   },
   {
    "id": "p42",
-   "montant": 250,
+   "montant": 498,
    "texte": "Chizat appelle Cléopâtre pour lui parler de Skibidi Toilet pendant 2 min",
    "final": false,
    "fait": false
@@ -306,13 +264,6 @@
    "id": "p43",
    "montant": 260,
    "texte": "Iwan imite le loup pendant 30 min",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p44",
-   "montant": 270,
-   "texte": "Zeyd mange du surströmming en live",
    "final": false,
    "fait": false
   },
@@ -352,23 +303,9 @@
    "fait": false
   },
   {
-   "id": "p50",
-   "montant": 330,
-   "texte": "Les 1A Mada distribuent des crêpes pendant 30 min",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p51",
    "montant": 340,
    "texte": "Santoni porte des faux ongles de dingue (vous choisissez le design)",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p52",
-   "montant": 350,
-   "texte": "Harold offre 5 pintes au SG",
    "final": false,
    "fait": false
   },
@@ -409,7 +346,7 @@
   },
   {
    "id": "p58",
-   "montant": 440,
+   "montant": 660,
    "texte": "Tanguy envoie un dive jump de 10 m",
    "final": false,
    "fait": false
@@ -458,7 +395,7 @@
   },
   {
    "id": "p65",
-   "montant": 700,
+   "montant": 800,
    "texte": "Mada organise un nano",
    "final": false,
    "fait": false
@@ -467,13 +404,6 @@
    "id": "p66",
    "montant": 725,
    "texte": "Julien Santoni se fait un dégradé des enfers en live",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p67",
-   "montant": 750,
-   "texte": "On va à Télécom avec le CE se venger",
    "final": false,
    "fait": false
   },
@@ -506,13 +436,6 @@
    "fait": false
   },
   {
-   "id": "p72",
-   "montant": 950,
-   "texte": "Uriel et Julien se font un tatouage commun",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p73",
    "montant": 1000,
    "texte": "On pousse le stream à 48 h",
@@ -535,7 +458,7 @@
   },
   {
    "id": "p76",
-   "montant": 1300,
+   "montant": 1800,
    "texte": "Tanguy se coupe les locks",
    "final": false,
    "fait": false
@@ -599,5 +522,5 @@
    "note": ""
   }
  ],
- "maj": 1792651075714
+ "maj": 1792652501684
 }
