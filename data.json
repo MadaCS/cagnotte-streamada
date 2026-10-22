@@ -223,7 +223,7 @@
   },
   {
    "id": "p33",
-   "montant": 170,
+   "montant": 340,
    "texte": "Fanny ne peut pas jouer au coin-coin pendant 1 semaine",
    "final": false,
    "fait": false
@@ -488,20 +488,6 @@
    "fait": false
   },
   {
-   "id": "p76",
-   "montant": 1800,
-   "texte": "Tanguy se coupe les locks",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p77",
-   "montant": 1500,
-   "texte": "Manon fait une buzzcut",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p78",
    "montant": 2000,
    "texte": "Salim casse sa Play s’il perd contre le dernier donneur",
@@ -735,5 +721,5 @@
    "note": ""
   }
  ],
- "maj": 1792679528255
+ "maj": 1792679651897
 }
