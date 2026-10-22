@@ -651,6 +651,13 @@
    "texte": "conta fait son boulot de secgen",
    "final": false,
    "fait": false
+  },
+  {
+   "id": "pmvjbp31z50ao",
+   "montant": 1300,
+   "texte": "Balthus et Romane se font tatouer l'initiale de leurs partenaires",
+   "final": false,
+   "fait": false
   }
  ],
  "carte": [
@@ -697,5 +704,5 @@
    "note": ""
   }
  ],
- "maj": 1792661355143
+ "maj": 1792660434311
 }
