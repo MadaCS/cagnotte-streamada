@@ -181,7 +181,7 @@
    "montant": 150,
    "texte": "Iwan, Salim et Tom se font une bande de cire sur bras, jambe ou torse",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p32",
@@ -697,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792663826243
+ "maj": 1792665338177
 }
