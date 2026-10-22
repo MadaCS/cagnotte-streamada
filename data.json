@@ -6,14 +6,7 @@
  },
  "trancheMada": 50,
  "ajustement": 270,
- "dons": [
-  {
-   "id": "dmvjjy3uvudtx",
-   "n": "Brieuc",
-   "a": 20,
-   "t": 1792674223879
-  }
- ],
+ "dons": [],
  "paliers": [
   {
    "id": "p0",
@@ -697,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792687103400
+ "maj": 1792687106359
 }
