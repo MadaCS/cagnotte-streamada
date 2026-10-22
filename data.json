@@ -184,13 +184,6 @@
    "fait": true
   },
   {
-   "id": "p32",
-   "montant": 160,
-   "texte": "Chizat met un Hoolisday à Soubeyran",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p33",
    "montant": 340,
    "texte": "Fanny ne peut pas jouer au coin-coin pendant 1 semaine",
@@ -284,16 +277,16 @@
   {
    "id": "p47",
    "montant": 300,
-   "texte": "Ella et Harold font un concours de cheesecake au Népal (celui qui en mange le moins paie tout)",
+   "texte": "Sofian et Salim font un concours de cheesecake au Népal (celui qui en mange le moins paie tout)",
    "final": false,
-   "fait": true
+   "fait": false
   },
   {
    "id": "p48",
    "montant": 310,
    "texte": "Harold se déguise en Batman jusqu’à la fin du stream",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p49",
@@ -644,6 +637,13 @@
    "texte": "On finit le live dans le camion FACS",
    "final": false,
    "fait": false
+  },
+  {
+   "id": "pmvjv51jt0vqi",
+   "montant": 330,
+   "texte": "Matisse mange 24 bananes en l'honneur de la légende d'Angelo",
+   "final": false,
+   "fait": true
   }
  ],
  "carte": [
@@ -690,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792693723004
+ "maj": 1792694520592
 }
