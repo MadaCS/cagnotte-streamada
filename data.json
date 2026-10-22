@@ -5,7 +5,7 @@
   "texte": "Objectif : pousser le stream à 48 h"
  },
  "trancheMada": 50,
- "ajustement": 0,
+ "ajustement": 12,
  "dons": [],
  "paliers": [
   {
@@ -690,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792653055612
+ "maj": 1792653094734
 }
