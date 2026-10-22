@@ -90,7 +90,7 @@
    "montant": 75,
    "texte": "On fait une trend TikTok choisie par le chat",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p17",
@@ -284,9 +284,9 @@
   {
    "id": "p47",
    "montant": 300,
-   "texte": "Sofian et Salim font un concours de cheesecake au Népal (celui qui en mange le moins paie tout)",
+   "texte": "Ella et Harold font un concours de cheesecake au Népal (celui qui en mange le moins paie tout)",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p48",
@@ -690,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792693276987
+ "maj": 1792693602156
 }
