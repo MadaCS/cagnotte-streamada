@@ -188,7 +188,7 @@
    "montant": 340,
    "texte": "Fanny ne peut pas jouer au coin-coin pendant 1 semaine",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p34",
@@ -279,7 +279,7 @@
    "montant": 300,
    "texte": "Sofian et Salim font un concours de cheesecake au Népal (celui qui en mange le moins paie tout)",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p48",
@@ -697,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792709282892
+ "maj": 1792709526388
 }
