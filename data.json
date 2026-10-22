@@ -476,6 +476,76 @@
    "texte": "Salim casse sa Play s’il perd contre le dernier donneur",
    "final": false,
    "fait": false
+  },
+  {
+   "id": "pmvj70nj8a6um",
+   "montant": 155,
+   "texte": "chloé explique son master en neuroscience à emile vilcoq",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj713549ar6",
+   "montant": 200,
+   "texte": "romane gobe un bol de riz ",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj71qwqn9ze",
+   "montant": 290,
+   "texte": "Les Madas volontaires vont faire blocus vendredi matin avec plottu paoli et blasini",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj7286yhbhq",
+   "montant": 297,
+   "texte": "octave dit tg à malo dès qu'il parle au débrief baaar",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj72gr89670",
+   "montant": 300,
+   "texte": "conta fait le planning de staff du quadrabang et du forum sans ia pour compenser de son mandat",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj72vzo4wln",
+   "montant": 312,
+   "texte": "PET écrit tous les prénoms de mada 100 fois chacun",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj736eh49p7",
+   "montant": 340,
+   "texte": "on refait le tournoi de lutte 2vs2 de mada",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj73xd83xqy",
+   "montant": 403,
+   "texte": "Thais et Chloé vont essayer de staffer au Crous",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj748i86k3x",
+   "montant": 478,
+   "texte": "Sofian met sa tenue à vendre sur vinted ",
+   "final": false,
+   "fait": false
+  },
+  {
+   "id": "pmvj74kgh6pr7",
+   "montant": 490,
+   "texte": "Chizat et rose font le debrief baaar en espagnol et attachés l'un à l'autre par les pieds ",
+   "final": false,
+   "fait": false
   }
  ],
  "carte": [
@@ -522,5 +592,5 @@
    "note": ""
   }
  ],
- "maj": 1792652501684
+ "maj": 1792652701592
 }
