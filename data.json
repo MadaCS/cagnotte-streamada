@@ -620,7 +620,7 @@
   {
    "id": "pmvj7alaxcqjw",
    "montant": 1200,
-   "texte": "conta fait son boulot de secgen",
+   "texte": "Conta fait son boulot de secgen",
    "final": false,
    "fait": false
   },
@@ -644,6 +644,13 @@
    "texte": "Matisse mange 24 bananes en l'honneur de la légende d'Angelo",
    "final": false,
    "fait": true
+  },
+  {
+   "id": "pmvjy54z8509e",
+   "montant": 380,
+   "texte": "Noé tue une pinte avant cardio training demain matin",
+   "final": false,
+   "fait": false
   }
  ],
  "carte": [
@@ -690,5 +697,5 @@
    "note": ""
   }
  ],
- "maj": 1792697236085
+ "maj": 1792698292002
 }
