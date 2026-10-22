@@ -300,7 +300,7 @@
    "montant": 340,
    "texte": "Santoni porte des faux ongles de dingue (vous choisissez le design)",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "p53",
@@ -468,7 +468,7 @@
    "montant": 200,
    "texte": "romane gobe un bol de riz ",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "pmvj71qwqn9ze",
@@ -690,5 +690,5 @@
    "note": ""
   }
  ],
- "maj": 1792696846347
+ "maj": 1792696940290
 }
