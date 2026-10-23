@@ -48,14 +48,14 @@
    "montant": 25,
    "texte": "Yaël fait un combat seule pendant 5 min",
    "final": false,
-   "fait": true
+   "fait": false
   },
   {
    "id": "p11",
    "montant": 50,
    "texte": "Balthus et Chloé en date au milieu du trou qui pue",
    "final": false,
-   "fait": true
+   "fait": false
   },
   {
    "id": "p12",
@@ -74,9 +74,9 @@
   {
    "id": "p14",
    "montant": 65,
-   "texte": "PET fait un roast de 2 min à Iwan",
+   "texte": "Clémence fait un roast de 2 min à Noé",
    "final": false,
-   "fait": true
+   "fait": false
   },
   {
    "id": "p15",
@@ -146,7 +146,7 @@
    "montant": 120,
    "texte": "Jordan et Harold enchaînent 3 CC",
    "final": false,
-   "fait": true
+   "fait": false
   },
   {
    "id": "p27",
@@ -352,13 +352,6 @@
    "fait": false
   },
   {
-   "id": "p60",
-   "montant": 480,
-   "texte": "Tous les Mada qui boivent font un tournoi de CC vendredi à 7 h",
-   "final": false,
-   "fait": false
-  },
-  {
    "id": "p61",
    "montant": 500,
    "texte": "La voirie fait enfin sa formation voirie sous polonaise",
@@ -369,13 +362,6 @@
    "id": "p62",
    "montant": 550,
    "texte": "Olivier de la sécu fait le test de pureté",
-   "final": false,
-   "fait": false
-  },
-  {
-   "id": "p63",
-   "montant": 600,
-   "texte": "Balthus se tatoue un M à côté de son W",
    "final": false,
    "fait": false
   },
@@ -430,7 +416,7 @@
   },
   {
    "id": "p73",
-   "montant": 1000,
+   "montant": 1050,
    "texte": "On pousse le stream à 48 h",
    "final": false,
    "fait": false
@@ -531,7 +517,7 @@
    "montant": 510,
    "texte": "Emma essaie de forcer le blocus demain",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "pmvj757rnah28",
@@ -612,7 +598,7 @@
   },
   {
    "id": "pmvj7a7njd35k",
-   "montant": 905,
+   "montant": 1165,
    "texte": "Chizat avoue face caméra qu'il n'a pas de culture footballistique ",
    "final": false,
    "fait": false
@@ -620,7 +606,7 @@
   {
    "id": "pmvj7alaxcqjw",
    "montant": 1200,
-   "texte": "Conta fait son boulot de secgen",
+   "texte": "conta fait son boulot de secgen",
    "final": false,
    "fait": false
   },
@@ -636,7 +622,7 @@
    "montant": 750,
    "texte": "On finit le live dans le camion FACS",
    "final": false,
-   "fait": false
+   "fait": true
   },
   {
    "id": "pmvjv51jt0vqi",
@@ -644,13 +630,6 @@
    "texte": "Matisse mange 24 bananes en l'honneur de la légende d'Angelo",
    "final": false,
    "fait": true
-  },
-  {
-   "id": "pmvjy54z8509e",
-   "montant": 380,
-   "texte": "Noé tue une pinte avant cardio training demain matin",
-   "final": false,
-   "fait": false
   }
  ],
  "carte": [
@@ -697,5 +676,5 @@
    "note": ""
   }
  ],
- "maj": 1792737942954
+ "maj": 1792738770601
 }
